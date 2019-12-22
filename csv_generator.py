@@ -70,6 +70,9 @@ f1=open('Muller1861_lecture1.txt', encoding='utf-8')
 Muller=f1.read()
 f2=open('stopwordlist.txt')
 stop_words=f2.read()
+f.close()
+f1.close()
+f2.close()
 
 #Process stopwords file: create list of stopwords 
 stop_words=(re.sub("\s+", " ", stop_words)).split()
