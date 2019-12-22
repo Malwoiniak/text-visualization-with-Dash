@@ -38,6 +38,6 @@ Input data: *Lectures on The Language: An Introduction to the Study of Speech* b
 Project is _in progress_. TODO: 
 - [ ] .csv files manipulation with pandas for Dash visualization
 - [ ] restructuring *sentences.csv* 
-
+- [ ] bubble chart scaling correction
 ## Contact
 Created by [@mal](https://www.linkedin.com/in/malwina-kotowicz/) - feel free to contact me!
