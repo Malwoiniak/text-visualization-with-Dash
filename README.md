@@ -30,7 +30,7 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 ## Setup
 Tu run this project, install dash with pip: 
 
-`$pip install dash==1.4.0`
+`pip install dash==1.4.0`
 
 Input data: *Lectures on The Language: An Introduction to the Study of Speech* by Edward Sapir, 1921 *(Sapir1921_chapter1.txt)*, *Lectures on the Science of Language* by Max Müller, 1862 *(Muller1861_lecture1.txt)*, stopwords list *(stopwordlist.txt)*
 
