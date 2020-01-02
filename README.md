@@ -24,7 +24,7 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 *dash_visualization.py:* gets .csv files and generates visualization with Dash
 
 ## Illustrations
-Interactive charts generated with script actions:
+**Interactive charts generated with script actions:**
 
 Scatterplot matrix of words and their frequency|length pairs 
 ![scatter](https://github.com/Malwoiniak/text-visualization-with-Dash/blob/master/scatter.jpg)
