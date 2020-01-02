@@ -41,7 +41,7 @@ Bubble chart of sentences with respect to their length|ranking
 
 
 ## Setup
-Tu run this project, install dash with pip: 
+To run this project, install dash with pip: 
 
 `pip install dash==1.4.0`
 
