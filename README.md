@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Illustrations](#illustrations)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
@@ -21,6 +22,18 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 *csv_generator.py:* extracts ten most frequent words and ten longest sentences for each input text file, generates .csv files (*words.csv, sentences.csv*)
 
 *dash_visualization.py:* gets .csv files and generates visualization with Dash
+
+## Illustrations
+Interactive charts generated with script actions:
+
+Scatterplot matrix of words and their frequency|length pairs 
+![scatter](https://github.com/Malwoiniak/text-visualization-with-Dash/blob/master/scatter.jpg)
+
+Stacked bar chart of word and their frequency|length pairs
+![stackbar](https://github.com/Malwoiniak/text-visualization-with-Dash/blob/master/stackbar.png)
+
+Bubble chart of sentences with respect to their length|ranking
+![bubble](https://github.com/Malwoiniak/text-visualization-with-Dash/blob/master/bubble.png)
 
 ## Technologies
 * Python 3.7
